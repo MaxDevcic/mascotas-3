@@ -1,4 +1,4 @@
-package com.ejemplotravez.model;
+package com.ejemplotravez.mascotas_3.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
